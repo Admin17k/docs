@@ -1,3 +1,5 @@
+<img width="192" height="192" alt="1000048190" src="https://github.com/user-attachments/assets/71d40c71-54f8-45bb-87a2-c58346173c78" />
+![1000048500](https://github.com/user-attachments/assets/4285af06-3000-462c-bac0-2410e0c17c48)
 # GitHub Docs <!-- omit in toc -->
 
 Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://docs.github.com/en/contributing)
